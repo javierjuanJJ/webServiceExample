@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/hellowWorld" />
     <file type="web" url="file://$PROJECT_DIR$/Prueba1JavaEE" />
     <file type="web" url="file://$PROJECT_DIR$/Servlet1" />
+    <file type="web" url="file://$PROJECT_DIR$/Servlet2" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -13,6 +14,7 @@
         <option value="$PROJECT_DIR$/Prueba1JavaEE/pom.xml" />
         <option value="$PROJECT_DIR$/hellowWorld/pom.xml" />
         <option value="$PROJECT_DIR$/Servlet1/pom.xml" />
+        <option value="$PROJECT_DIR$/Servlet2/pom.xml" />
       </list>
     </option>
   </component>
