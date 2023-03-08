@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EL1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EL2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVC1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Prueba1JavaEE" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Servlet1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Servlet2" vcs="Git" />
