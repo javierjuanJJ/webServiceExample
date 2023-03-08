@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/Servlet2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Servlet3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Servlet4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ServletJSP" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hellowWorld" vcs="Git" />
   </component>
 </project>
