@@ -21,7 +21,11 @@
     <file url="file://$PROJECT_DIR$/ServletJSP/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellowWorld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellowWorld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servidores/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servidores/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servidores/src/main/webapp/index.jsp" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>

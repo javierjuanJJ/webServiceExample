@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/hellowWorld" />
     <file type="web" url="file://$PROJECT_DIR$/MVC1" />
     <file type="web" url="file://$PROJECT_DIR$/Prueba1JavaEE" />
+    <file type="web" url="file://$PROJECT_DIR$/servidores" />
     <file type="web" url="file://$PROJECT_DIR$/Servlet1" />
     <file type="web" url="file://$PROJECT_DIR$/Servlet2" />
     <file type="web" url="file://$PROJECT_DIR$/Servlet3" />
@@ -27,6 +28,7 @@
         <option value="$PROJECT_DIR$/EL2/pom.xml" />
         <option value="$PROJECT_DIR$/MVC1/pom.xml" />
         <option value="$PROJECT_DIR$/ServletJSP/pom.xml" />
+        <option value="$PROJECT_DIR$/servidores/pom.xml" />
       </list>
     </option>
   </component>
